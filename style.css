@@ -303,7 +303,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "What I Know";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -377,7 +377,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "Who with Me";
 }
 .teams .carousel .card{
     background: #222;
@@ -440,7 +440,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "get in touch";
+    content: "Get in Touch";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
